@@ -42,7 +42,7 @@ setup(
     install_requires=[
         'Jinja2>=2.10',
         'PyYAML>=3.11',
-        'psycopg2>=2.7.5,<2.8',
+        'psycopg2-binary>=2.7.5,<2.8',
         'sqlparse==0.2.3',
         'networkx==1.11',
         'minimal-snowplow-tracker==0.0.2',
